@@ -1,0 +1,2 @@
+# Store artifacts and metadata to sqlite
+mlflow ui --backend-store-uri sqlite:///mlflow.db
