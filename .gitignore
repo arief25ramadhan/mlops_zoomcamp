@@ -3,3 +3,5 @@ mlflow.db
 *.parquet
 *.bin
 *.b
+module_2/mlflow_in_practice/aws*
+*.pem
