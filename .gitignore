@@ -5,3 +5,4 @@ mlflow.db
 *.b
 module_2/mlflow_in_practice/aws*
 *.pem
+mlops/
